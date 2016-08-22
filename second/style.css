@@ -1,0 +1,37 @@
+.left-blue {
+    height: 700px;
+    width: 33%;
+    float: left;
+    background-color: #4A90E2;
+}
+
+.middle-green {
+    height: 700px;
+    width: 33%;
+    float: left;
+    background-color: #50E3C2;
+}
+
+.right-puse{
+    height: 500px;
+    width: 33%;
+    float: left;
+    background-color: #B8E986;
+}
+.image-holder {
+    height: 200px;
+    width: 33%;
+    float: left;
+    background-color: red;
+}
+
+a.userLink {
+    width: 200px;
+    height: 150px;
+    display: table-cell;
+    font: 18px arial, sans-serif;
+    vertical-align:middle;
+    text-align:center;
+    color: #FFFFFF;
+    text-decoration: none;
+}
