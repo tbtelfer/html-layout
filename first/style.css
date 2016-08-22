@@ -1,0 +1,33 @@
+.top {
+    height: 10%;
+    width: 100%;
+    background-color: black;
+}
+
+.left {
+    height: 600px;
+    width: 10%;
+    float: left;
+    background-color: grey;
+}
+
+.middle {
+    height: 550px;
+    width: 80%;
+    float: left;
+    background-color: white;
+}
+.right {
+    height: 600px;
+    width: 10%;
+    float: left;
+    background-color: grey;
+}
+
+.bottom {
+    height: 50px;
+    width: 80%;
+    bottom: 0;
+    right: 50;
+    background-color: black;
+}
