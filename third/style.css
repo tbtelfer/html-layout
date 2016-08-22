@@ -1,0 +1,46 @@
+.top {
+    height: 75px;
+    width: 100%;
+    background-color: black;
+}
+
+.box-top {
+    height: 50px;
+    width: 50px;
+    float: left;
+    background-color: #4A90E2;
+}
+
+.text-box {
+    height: 300px;
+    width: 100%;
+    float: left;
+    background-color: white;
+}
+.blue {
+    height: 75px;
+    width: 100%;
+    float: left;
+    background-color: #4A90E2;
+}
+
+.green {
+    height: 75px;
+    width: 100%;
+    float: left;
+    background-color: #50E3C2;
+}
+
+.light-green {
+    height: 75px;
+    width: 100%;
+    float: left;
+    background-color: #B8E986;
+}
+
+.yellow {
+    height: 75px;
+    width: 100%;
+    float: left;
+    background-color: #F8E71C;
+}
